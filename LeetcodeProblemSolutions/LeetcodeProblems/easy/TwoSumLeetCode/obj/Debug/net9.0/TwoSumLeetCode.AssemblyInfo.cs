@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TwoSumLeetCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff85134b8e4f59a1032243b4e6b8eaa994a71d48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bb9c76e74bd4f7f348b1efb859ef013442e92f6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TwoSumLeetCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TwoSumLeetCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

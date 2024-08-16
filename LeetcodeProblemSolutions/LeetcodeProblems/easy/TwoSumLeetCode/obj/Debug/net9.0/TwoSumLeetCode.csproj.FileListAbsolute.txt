@@ -1,0 +1,15 @@
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/easy/TwoSumLeetCode/bin/Debug/net9.0/TwoSumLeetCode
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/easy/TwoSumLeetCode/bin/Debug/net9.0/TwoSumLeetCode.deps.json
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/easy/TwoSumLeetCode/bin/Debug/net9.0/TwoSumLeetCode.runtimeconfig.json
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/easy/TwoSumLeetCode/bin/Debug/net9.0/TwoSumLeetCode.dll
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/easy/TwoSumLeetCode/bin/Debug/net9.0/TwoSumLeetCode.pdb
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/easy/TwoSumLeetCode/obj/Debug/net9.0/TwoSumLeetCode.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/easy/TwoSumLeetCode/obj/Debug/net9.0/TwoSumLeetCode.AssemblyInfoInputs.cache
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/easy/TwoSumLeetCode/obj/Debug/net9.0/TwoSumLeetCode.AssemblyInfo.cs
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/easy/TwoSumLeetCode/obj/Debug/net9.0/TwoSumLeetCode.csproj.CoreCompileInputs.cache
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/easy/TwoSumLeetCode/obj/Debug/net9.0/TwoSumLeetCode.sourcelink.json
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/easy/TwoSumLeetCode/obj/Debug/net9.0/TwoSumLeetCode.dll
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/easy/TwoSumLeetCode/obj/Debug/net9.0/refint/TwoSumLeetCode.dll
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/easy/TwoSumLeetCode/obj/Debug/net9.0/TwoSumLeetCode.pdb
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/easy/TwoSumLeetCode/obj/Debug/net9.0/TwoSumLeetCode.genruntimeconfig.cache
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/easy/TwoSumLeetCode/obj/Debug/net9.0/ref/TwoSumLeetCode.dll
