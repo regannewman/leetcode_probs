@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "easy", "easy", "{4AE0F085-A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetcodeProblem1", "LeetcodeProblems\easy\LeetcodeProblem1\LeetcodeProblem1.csproj", "{C90AAA52-EB02-4391-8D1C-7B2B3D26A4E3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "medium", "medium", "{03B00106-69E1-4956-B6CC-760C72A575CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetcodeProb2", "LeetcodeProblems\medium\LeetcodeProb2\LeetcodeProb2.csproj", "{B1DEC4F6-5B66-4A0C-A2CD-488A0EC6E63A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,10 @@ Global
 		{C90AAA52-EB02-4391-8D1C-7B2B3D26A4E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C90AAA52-EB02-4391-8D1C-7B2B3D26A4E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C90AAA52-EB02-4391-8D1C-7B2B3D26A4E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1DEC4F6-5B66-4A0C-A2CD-488A0EC6E63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DEC4F6-5B66-4A0C-A2CD-488A0EC6E63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DEC4F6-5B66-4A0C-A2CD-488A0EC6E63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DEC4F6-5B66-4A0C-A2CD-488A0EC6E63A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{4AE0F085-AB7F-4E00-BFCF-6F7C12B78110} = {4E5D295E-1788-419E-A2C8-F272B791437F}
 		{C90AAA52-EB02-4391-8D1C-7B2B3D26A4E3} = {4AE0F085-AB7F-4E00-BFCF-6F7C12B78110}
+		{03B00106-69E1-4956-B6CC-760C72A575CA} = {4E5D295E-1788-419E-A2C8-F272B791437F}
+		{B1DEC4F6-5B66-4A0C-A2CD-488A0EC6E63A} = {03B00106-69E1-4956-B6CC-760C72A575CA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {89A3ACDB-A91C-4FE7-A3DD-5FC5DC627CBE}

@@ -1,0 +1,15 @@
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/medium/LeetcodeProb2/bin/Debug/net9.0/LeetcodeProb2
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/medium/LeetcodeProb2/bin/Debug/net9.0/LeetcodeProb2.deps.json
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/medium/LeetcodeProb2/bin/Debug/net9.0/LeetcodeProb2.runtimeconfig.json
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/medium/LeetcodeProb2/bin/Debug/net9.0/LeetcodeProb2.dll
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/medium/LeetcodeProb2/bin/Debug/net9.0/LeetcodeProb2.pdb
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/medium/LeetcodeProb2/obj/Debug/net9.0/LeetcodeProb2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/medium/LeetcodeProb2/obj/Debug/net9.0/LeetcodeProb2.AssemblyInfoInputs.cache
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/medium/LeetcodeProb2/obj/Debug/net9.0/LeetcodeProb2.AssemblyInfo.cs
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/medium/LeetcodeProb2/obj/Debug/net9.0/LeetcodeProb2.csproj.CoreCompileInputs.cache
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/medium/LeetcodeProb2/obj/Debug/net9.0/LeetcodeProb2.sourcelink.json
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/medium/LeetcodeProb2/obj/Debug/net9.0/LeetcodeProb2.dll
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/medium/LeetcodeProb2/obj/Debug/net9.0/refint/LeetcodeProb2.dll
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/medium/LeetcodeProb2/obj/Debug/net9.0/LeetcodeProb2.pdb
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/medium/LeetcodeProb2/obj/Debug/net9.0/LeetcodeProb2.genruntimeconfig.cache
+/Users/Regs/Documents/code/leetcode_probs/LeetcodeProblemSolutions/LeetcodeProblems/medium/LeetcodeProb2/obj/Debug/net9.0/ref/LeetcodeProb2.dll

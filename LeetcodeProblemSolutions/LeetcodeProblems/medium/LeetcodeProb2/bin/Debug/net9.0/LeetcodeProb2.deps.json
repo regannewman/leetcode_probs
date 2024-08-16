@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LeetcodeProb2/1.0.0": {
+        "runtime": {
+          "LeetcodeProb2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeetcodeProb2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
